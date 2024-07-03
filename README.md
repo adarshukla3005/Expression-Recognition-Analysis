@@ -9,4 +9,4 @@
 ![original image](/tiger.png?raw=true "original image")
 
 **Compressed Image with 16 colors**
-![original image](/tiger_compressed.png?raw=true "original image")
+![Compressed image](https://github.com/adarshukla3005/Image_Compression_KMap_Clustering/blob/main/tiger_compressed.jpg?raw=true)
