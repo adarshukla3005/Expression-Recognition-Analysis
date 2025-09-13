@@ -91,7 +91,7 @@ The training history plots below show the model's accuracy and loss over the epo
 
 | Accuracy Plot | Loss Plot |
 |--------------|-----------|
-| ![Accuracy Plot](https://via.placeholder.com/300x200?text=Accuracy+Plot) | ![Loss Plot](https://via.placeholder.com/300x200?text=Loss+Plot) |
+| <img src="https://github.com/user-attachments/assets/d37d7bca-5afc-4f41-898a-4887547f160b" width="400"/> | <img src="https://github.com/user-attachments/assets/db4392e2-bfd0-428a-a8a6-c8a00b77db67" width="400"/> |
 
 ## 🛠️ Technologies Used
 - Python 3
@@ -108,7 +108,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/facial-expression-recognition.git
+   git clone https://github.com/adarshukla3005/Expression-Recognition-Analysis.git
    cd facial-expression-recognition
    ```
 2. **Create a virtual environment and install dependencies:**
