@@ -23,7 +23,7 @@ The goal of this project is to build an effective deep learning model for emotio
 
 *Visualization of the class distribution in the training data:*
 
-![Class Distribution Visualization](https://via.placeholder.com/600x400?text=Class+Distribution+Visualization)
+<img src="https://github.com/user-attachments/assets/fd98e3a9-2fa4-4090-9da7-aceb9bab1b71" alt="Class Distribution Visualization" width="400"/>
 
 ## ⚙️ Methodology
 The project follows a standard machine learning workflow:
