@@ -19,6 +19,7 @@ The goal of this project is to build an effective deep learning model for emotio
 - **Training Set:** Contains 28,709 images.
 - **Testing Set:** Contains 7,178 images.
 - The images are categorized into seven distinct emotion classes. The exploratory data analysis revealed an imbalance in the dataset, with the 'happy' class being the most represented and the 'disgust' class being the least.
+- **Download**: [Dataset (Google Drive)](https://drive.google.com/file/d/134M73bJhOZRIiyYGx4VSoRldIFlz_Zix/view?usp=sharing) 
 
 *Visualization of the class distribution in the training data:*
 
